@@ -1,2 +1,4 @@
 # houdini_maya_component_selection
-Getting component selections from Maya into Houdini Engine via HDA parameters.
+These 2 hdas demo a few methods to get component selections from Maya into Houdini Engine via HDA parameters.
+
+-Required 
